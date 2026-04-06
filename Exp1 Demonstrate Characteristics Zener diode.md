@@ -2,7 +2,8 @@
 # Aim:
 To plot the V-I characteristics of Zener diode.
 # APPARATUS REQUIRED:
-<img width="920" height="226" alt="image" src="https://github.com/user-attachments/assets/42684f69-19eb-43b5-9946-f0ac21e44a0c" />
+![app required1](https://github.com/user-attachments/assets/2befaca7-e192-449d-8973-b6150b766097)
+
 # PROCEDURE:
 
 FORWARD BIAS:
@@ -31,16 +32,22 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+![circuit diagram 1](https://github.com/user-attachments/assets/44da956f-a639-41cb-a646-a35ccd86afad)
 
 
 # TABULAR COLUMN & CALCULATION:
+![observation1](https://github.com/user-attachments/assets/39e09ee2-79f1-46b9-b878-8c5ebe2b21a2)
+![calculations1](https://github.com/user-attachments/assets/4f3a1c90-b4f5-41da-95a3-9386d4f58dd1)
 
 # MODEL GRAPH:
-<img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
+![model graph 1](https://github.com/user-attachments/assets/7a2c2df2-32d7-4198-b405-d80e99938ee3)
+
 
 # GRAPH:
+![graph](https://github.com/user-attachments/assets/bf346624-8d08-4e2a-8f21-d6a6b1b55f15)
 
 # RESULT:
+![result1](https://github.com/user-attachments/assets/ddb4c36f-47c0-4161-b8b0-29946e4ed7f8)
 
 
 
