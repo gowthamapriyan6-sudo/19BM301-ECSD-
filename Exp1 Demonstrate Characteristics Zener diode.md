@@ -31,27 +31,26 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2026-04-04 at 00 23 28](https://github.com/user-attachments/assets/29c466a0-1e1c-4d0f-ab89-54bdc3627600)
+![circuit diagram 1](https://github.com/user-attachments/assets/60b8f1c7-c4e2-4405-b659-0bb3493cc418)
 
 
 # TABULAR COLUMN & CALCULATION:
-![WhatsApp Image 2026-04-04 at 00 23 41](https://github.com/user-attachments/assets/704e4dce-bd5a-41c9-87a7-352fa7f4e95f)
-![WhatsApp Image 2026-04-04 at 00 23 47](https://github.com/user-attachments/assets/a745a92d-3e6e-4131-a712-bce20c8b0bbb)
+![observation1](https://github.com/user-attachments/assets/1a1ef8ae-c7e2-410f-a328-c95b73042897)
+
+![circuit diagram 1](https://github.com/user-attachments/assets/ab1dee33-7c26-42e7-983b-50585a059a75)
 
 # MODEL GRAPH:
-<img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
-![WhatsApp Image 2026-04-04 at 00 28 22 (1)](https://github.com/user-attachments/assets/b5d47393-fc5f-4e2b-8469-9d0fa86244de)
+
+![model graph 1](https://github.com/user-attachments/assets/7f8dc1f1-edbb-461b-8b90-42092685cfc7)
 
 
 
 # GRAPH:
-![WhatsApp Image 2026-04-04 at 00 24 19](https://github.com/user-attachments/assets/9bafd94f-384d-49e5-86fb-a7f518e0349f)
+![graph](https://github.com/user-attachments/assets/2353755d-8a0c-4d54-8122-346a811816a5)
 
 # RESULT:
-![WhatsApp Image 2026-04-04 at 00 24 30](https://github.com/user-attachments/assets/38493f20-8e24-4c6a-8403-54360d7ba48e)
-
-
+![result1](https://github.com/user-attachments/assets/b7fec8c0-3aff-4a7b-88e7-5b99f9fd7dd8)
 
 
 
