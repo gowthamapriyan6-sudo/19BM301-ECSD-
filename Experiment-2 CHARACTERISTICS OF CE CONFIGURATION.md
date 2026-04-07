@@ -28,25 +28,28 @@ Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
 # Circuit Diagram and Model Graph:
-![WhatsApp Image 2026-04-04 at 00 54 26 (1)](https://github.com/user-attachments/assets/5f30d74a-55b9-4b68-84ca-1715d840ab21)
+![circuit diagram 2](https://github.com/user-attachments/assets/1f1a2e38-94f3-4af5-98e4-0205deac1477)
+![model graph 2](https://github.com/user-attachments/assets/c2ce7864-e171-4eba-8750-95fde7cd445c)
 
 
 
 # Tabular Column & Calculation:
-![WhatsApp Image 2026-04-04 at 00 54 17 (2)](https://github.com/user-attachments/assets/82751cc0-6de7-4d96-9a0c-7797f9dfdb11)
-![WhatsApp Image 2026-04-04 at 00 54 26](https://github.com/user-attachments/assets/24c63da0-bf2d-4dd6-bd05-9925401b381f)
-![WhatsApp Image 2026-04-04 at 00 54 17 (1)](https://github.com/user-attachments/assets/d60e662e-5e5c-4cb5-b61e-1d4b55b6cd81)
-![WhatsApp Image 2026-04-04 at 00 54 27](https://github.com/user-attachments/assets/8d1c04b7-109c-4d9e-b83a-a2c3c16d63db)
+![observation 21](https://github.com/user-attachments/assets/36444efc-e033-4b77-9feb-3b297c2a6434)
+![observation 2](https://github.com/user-attachments/assets/10f23f0a-6de1-4599-8618-d80d6205a7ee)
+![calculation 2](https://github.com/user-attachments/assets/164c89ac-7d7e-4cd9-a940-4defb0f31274)
+
 
 
 # Graph:
-![WhatsApp Image 2026-04-04 at 00 54 17](https://github.com/user-attachments/assets/afdfc56a-ffc8-4162-936a-2bc24ae24a6b)
-![WhatsApp Image 2026-04-04 at 00 54 25](https://github.com/user-attachments/assets/8389d9ab-94e6-4526-be67-f16fce761f1b)
+![graph 21](https://github.com/user-attachments/assets/196d2830-6890-41b4-a03c-61bf7028ba19)
+
+![graph 22](https://github.com/user-attachments/assets/70c6da8f-37ed-4c85-83a8-ac49ba534176)
 
 
 
 # Result:
-![WhatsApp Image 2026-04-04 at 00 54 16](https://github.com/user-attachments/assets/92f6925f-b82f-4afc-845a-1e09a5f3bd95)
+
+![result 2](https://github.com/user-attachments/assets/cf36679d-1663-40c9-b3b1-a56a8d5a9132)
 
 
 
